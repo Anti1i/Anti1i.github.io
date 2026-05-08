@@ -133,7 +133,7 @@ My academic exploration focuses on AI Security, VR Privacy, and Federated Learni
 *Undergraduate*, School of Cyber Science and Engineering, Wuhan University
 * Major: Information Security
 * **GPA: 3.89 / 4.0**
-* **Rankings: 4 / 101 (Academic) \| 1 / 101 (Comprehensive)**
+* **Rankings: 4 / 106 (Academic) \| 1 / 106 (Comprehensive)**
 
 
 <br/>
