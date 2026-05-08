@@ -90,33 +90,31 @@ My academic exploration focuses on AI Security, VR Privacy, and Federated Learni
 * *2025.09*: 🏆 Awarded the prestigious **Lei Jun Computer Scholarship**.
 * *2025.05*: 🥇 Won the First Prize in the **Huawei ICT Competition** (National Final).
 
-# 📃 Publications 
+# 📝 Manuscripts / Preprints
 
 <dl>
   <dd><a href=""><strong>BackSnoop: VR Visual Side-Channel Keystroke Inference via Rear-View Upper-Arm Kinematics</strong></a></dd>
-  <dd><strong>Jingbo Wang</strong>, et al.</dd>
+  <dd><strong>Jingbo Wang</strong>, Zhixiang He, Jing Chen, Jinyi Li, Yangyang Gu, Kun He, Ruiying Du, Cong Wu</dd>
   <dd> Under Review at ACM International Joint Conference on Pervasive and Ubiquitous Computing (<strong>UbiComp</strong>), 2026</dd>
 </dl>
 
 <dl>
   <dd><a href=""><strong>E2Gen: Evidential Energy Generation Framework for Fair Federated Graph Learning</strong></a></dd>
-  <dd><strong>Jingbo Wang</strong>, et al.</dd>
+  <dd><strong>Jingbo Wang</strong>, Zitong Shi, Yuxin Wu, Zihan Tan, Qiqi Lin, Xuankun Rong, Liangtao Zheng, Wenke Huang, Mang Ye</dd>
   <dd> Under Review at Neural Information Processing Systems (<strong>NeurIPS</strong>), 2026</dd>
 </dl>
 
 <dl>
   <dd><a href=""><strong>Tackling LLM Instruction Conflicts via Energy-Driven Latent Conflict Detection</strong></a></dd>
-  <dd>Co-author including <strong>Jingbo Wang</strong></dd>
+  <dd>Mingyu Ma, Tianxiao Huang, Haotong Xie, <strong>Jingbo Wang</strong>, Qiqi Lin, Leixin Sun, Liangtao Zheng, Zitong Shi, Yuxin Wu, Xiaochuan Shi</dd>
   <dd> Under Review at International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2026</dd>
 </dl>
 
 <dl>
   <dd><a href=""><strong>CLICKID: Multimodal VR User Authentication via Click-Derived Hand Biometrics</strong></a></dd>
-  <dd>Co-author including <strong>Jingbo Wang</strong></dd>
-  <dd> Under Review at USENIX Security Symposium (<strong>USENIX Sec</strong>), 2026</dd>
+  <dd>Zhixiang He, Yanyi Luo, Jing Chen, <strong>Jingbo Wang</strong>, Yangyang Gu, Kun He, Ruiying Du, Ju Jia, Cong Wu, Ziming Zhao</dd>
+  <dd> Under Review at ACM International Conference on Mobile Computing and Networking (<strong>MobiCom</strong>), 2026</dd>
 </dl>
-
-<hr>
 
 # 🎖 Scholarships and Honors
 * **Bronze Medal**, ARC Prize Global Challenge <a href="../images/ARC_Prize.pdf" target="_blank">ARC Prize Global Challenge</a> [2025]
