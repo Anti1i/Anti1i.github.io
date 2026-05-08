@@ -71,7 +71,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Jingbo Wang (Chinese: 王靖博), an undergraduate student majoring in Information Security at the School of Cyber Science and Engineering, Wuhan University. I have the privilege of working with [Prof. Jing Chen](https://scholar.google.com/citations?hl=en&user=MZ8wtusAAAAJ) (陈晶教授). 
+Hi, my name is Jingbo Wang (Chinese: 王靖博), an undergraduate student majoring in Information Security at the School of Cyber Science and Engineering, Wuhan University. I have the privilege of working with [Prof. Jing Chen](https://scholar.google.com/citations?hl=en&user=MZ8wtusAAAAJ) . 
 
 My academic performance stands at [**GPA 3.89/4.0**](../images/transcript.png), with an [**Academic Rank of 4/106**](../images/rank.jpg) and a [**Comprehensive Rank of 1/106**](../images/comprehensive_rank_cert.pdf).
 
@@ -117,7 +117,7 @@ My academic exploration focuses on AI Security, VR Privacy, and Federated Learni
 </dl>
 
 # 🎖 Scholarships and Honors
-* **Bronze Medal**, ARC Prize Global Challenge <a href="../images/ARC_Prize.pdf" target="_blank">Certificate</a> [2025]
+* **Bronze Medal**, ARC Prize Global Challenge [<a href="../images/ARC_Prize.pdf" target="_blank">Certificate</a>] [2025]
 * **National First Prize**, Huawei ICT Competition [<a href="../images/Huawei.png" target="_blank">Certificate</a>] [2025]
 * **National Second Prize**, DataCon Big Data Security Analysis Competition [<a href="../images/datacon.jpeg" target="_blank">Certificate</a>] [2025]
 * **National Second Prize**, MathorCup Big Data Competition [<a href="../images/mathor.pdf" target="_blank">Certificate</a>] [2025]
