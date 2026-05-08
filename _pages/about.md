@@ -117,7 +117,7 @@ My academic exploration focuses on AI Security, VR Privacy, and Federated Learni
 </dl>
 
 # 🎖 Scholarships and Honors
-* **Bronze Medal**, ARC Prize Global Challenge [<a href="../images/ARC_Prize.pdf" target="_blank">Certificate</a>] [2025]
+* **Bronze Medal**, ARC Prize Global Challenge [<a href="../images/kaggle.png" target="_blank">Certificate</a>] [2025]
 * **National First Prize**, Huawei ICT Competition [<a href="../images/Huawei.png" target="_blank">Certificate</a>] [2025]
 * **National Second Prize**, DataCon Big Data Security Analysis Competition [<a href="../images/datacon.jpeg" target="_blank">Certificate</a>] [2025]
 * **National Second Prize**, MathorCup Big Data Competition [<a href="../images/mathor.pdf" target="_blank">Certificate</a>] [2024]
