@@ -73,7 +73,7 @@ redirect_from:
 
 Hi, my name is Jingbo Wang (Chinese: 王靖博), an undergraduate student majoring in Information Security at the School of Cyber Science and Engineering, Wuhan University. I have the privilege of working with [Prof. Jing Chen](https://scholar.google.com/citations?hl=en&user=MZ8wtusAAAAJ) (陈晶教授). 
 
-My academic performance stands at [**GPA 3.89/4.0**](../images/transcript.png), with an [**Academic Rank of 4/101**](../images/rank.jpg) and a [**Comprehensive Rank of 1/101**](../images/comprehensive_rank_cert.pdf).
+My academic performance stands at [**GPA 3.89/4.0**](../images/transcript.png), with an [**Academic Rank of 4/106**](../images/rank.jpg) and a [**Comprehensive Rank of 1/106**](../images/comprehensive_rank_cert.pdf).
 
 # 🔍 Research
 
