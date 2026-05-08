@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jingbo Wang"
-description              : "Jingbo Wang's HomePage"
+description              : ""
 repository               : "Anti1i/Anti1i.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jingbo Wang"
   avatar           : "images/photo.png"
-  bio              : "Wuhan University"
+  bio              : "undergraduate student at Wuhan University"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
