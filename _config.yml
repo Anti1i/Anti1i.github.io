@@ -11,8 +11,6 @@ description              : ""
 repository               : "Anti1i/Anti1i.github.io"
 google_scholar_stats_use_cdn : true
 
-favicon: /images/favicon.ico
-
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
