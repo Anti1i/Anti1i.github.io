@@ -92,29 +92,43 @@ My academic exploration focuses on AI Security, VR Privacy, and Federated Learni
 
 # 📝 Manuscripts / Preprints
 
-<dl>
-  <dd><a href=""><strong>BackSnoop: VR Visual Side-Channel Keystroke Inference via Rear-View Upper-Arm Kinematics</strong></a></dd>
-  <dd><strong>Jingbo Wang</strong>, et al.</dd>
-  <dd> Under Review at ACM International Joint Conference on Pervasive and Ubiquitous Computing (<strong>UbiComp</strong>), 2026</dd>
-</dl>
+### [1] BackSnoop: VR Visual Side-Channel Keystroke Inference via Rear-View Upper-Arm Kinematics
+<div style="margin-bottom: 10px;">
+  <span style="background-color: #f1f8ff; color: #0366d6; padding: 2px 8px; border-radius: 4px; font-size: 13px; font-weight: bold; margin-right: 5px;">First Author</span>
+  <span style="background-color: #fffbdd; color: #735c0f; padding: 2px 8px; border-radius: 4px; font-size: 13px; font-weight: bold; margin-right: 10px;">Under Review at UbiComp 2026</span>
+</div>
 
-<dl>
-  <dd><a href=""><strong>E2Gen: Evidential Energy Generation Framework for Fair Federated Graph Learning</strong></a></dd>
-  <dd><strong>Jingbo Wang</strong>, et al.</dd>
-  <dd> Under Review at Neural Information Processing Systems (<strong>NeurIPS</strong>), 2026</dd>
-</dl>
+* **Research Focus**: VR Security, Visual Side-Channel Attacks, Keystroke Inference
 
-<dl>
-  <dd><a href=""><strong>Tackling LLM Instruction Conflicts via Energy-Driven Latent Conflict Detection</strong></a></dd>
-  <dd>Co-authors including <strong>Jingbo Wang</strong></dd>
-  <dd> Under Review at International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2026</dd>
-</dl>
+<br>
 
-<dl>
-  <dd><a href=""><strong>CLICKID: Multimodal VR User Authentication via Click-Derived Hand Biometrics</strong></a></dd>
-  <dd>Co-authors including <strong>Jingbo Wang</strong></dd>
-  <dd> Under Review at ACM International Conference on Mobile Computing and Networking (<strong>MobiCom</strong>), 2026</dd>
-</dl>
+### [2] E2Gen: Evidential Energy Generation Framework for Fair Federated Graph Learning
+<div style="margin-bottom: 10px;">
+  <span style="background-color: #f1f8ff; color: #0366d6; padding: 2px 8px; border-radius: 4px; font-size: 13px; font-weight: bold; margin-right: 5px;">First Author</span>
+  <span style="background-color: #fffbdd; color: #735c0f; padding: 2px 8px; border-radius: 4px; font-size: 13px; font-weight: bold; margin-right: 10px;">Under Review at NeurIPS 2026</span>
+</div>
+
+* **Research Focus**: Federated Graph Learning, Fairness in AI, Energy-Based Models
+
+<br>
+
+### [3] Tackling LLM Instruction Conflicts via Energy-Driven Latent Conflict Detection
+<div style="margin-bottom: 10px;">
+  <span style="background-color: #f1f8ff; color: #0366d6; padding: 2px 8px; border-radius: 4px; font-size: 13px; font-weight: bold; margin-right: 5px;">Co-author</span>
+  <span style="background-color: #fffbdd; color: #735c0f; padding: 2px 8px; border-radius: 4px; font-size: 13px; font-weight: bold; margin-right: 10px;">Under Review at IJCAI 2026</span>
+</div>
+
+* **Research Focus**: Large Language Models (LLMs), Instruction Tuning, Conflict Detection
+
+<br>
+
+### [4] CLICKID: Multimodal VR User Authentication via Click-Derived Hand Biometrics
+<div style="margin-bottom: 10px;">
+  <span style="background-color: #f1f8ff; color: #0366d6; padding: 2px 8px; border-radius: 4px; font-size: 13px; font-weight: bold; margin-right: 5px;">Co-author</span>
+  <span style="background-color: #fffbdd; color: #735c0f; padding: 2px 8px; border-radius: 4px; font-size: 13px; font-weight: bold; margin-right: 10px;">Under Review at MobiCom 2026</span>
+</div>
+
+* **Research Focus**: VR Authentication, Hand Biometrics, Multimodal Security
 
 # 🎖 Scholarships and Honors
 * **Bronze Medal**, ARC Prize Global Challenge [<a href="../images/kaggle.png" target="_blank">Certificate</a>] [2025]
