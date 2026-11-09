@@ -71,9 +71,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Jingbo Wang (Chinese: 王靖博), an undergraduate student majoring in Information Security at the School of Cyber Science and Engineering, Wuhan University. I have the privilege of working with [Prof. Jing Chen](https://scholar.google.com/citations?hl=en&user=MZ8wtusAAAAJ) . 
+Hi, my name is Jingbo Wang (Chinese: 王靖博), an undergraduate student majoring in Information Security at the School of Cyber Science and Engineering, Wuhan University. 
 
-My academic performance stands at [**GPA 3.89/4.0**](../images/transcript.png), with an [**Academic Rank of 4/106**](../images/rank.jpg) and a [**Comprehensive Rank of 1/106**](../images/comprehensive_rank_cert.pdf).
+My academic performance stands at [**GPA 3.89/4.0**](../images/transcript.png), with an [**Academic Rank of 4/106**](../images/rank.jpg) and a [**Comprehensive Rank of 2/106**](../images/comprehensive_rank_cert.pdf).
 
 # 🔍 Research
 
@@ -85,8 +85,7 @@ My academic exploration focuses on AI Security, VR Privacy, and Federated Learni
 * VR Security & Side-Channel Attacks 🥽
 
 # 🔥 News
-* *2026.05*: Two papers were submitted to **NeurIPS 2026** and **UbiComp 2026** as the first author.
-* *2025.11*: 🥉 Won the Bronze Medal in the **ARC Prize 2025** Global Challenge.
+* *2026.05*: Two papers were submitted to **NeurIPS 2026** and **InfoCom 2026** as the first author.
 * *2025.09*: 🏆 Awarded the prestigious **Lei Jun Computer Scholarship**.
 * *2025.05*: 🥇 Won the First Prize in the **Huawei ICT Competition** (National Final).
 
@@ -95,7 +94,7 @@ My academic exploration focuses on AI Security, VR Privacy, and Federated Learni
 ### [1] BackSnoop: VR Visual Side-Channel Keystroke Inference via Rear-View Upper-Arm Kinematics
 <div style="margin-bottom: 10px;">
   <span style="background-color: #f1f8ff; color: #0366d6; padding: 2px 8px; border-radius: 4px; font-size: 13px; font-weight: bold; margin-right: 5px;">First Author</span>
-  <span style="background-color: #fffbdd; color: #735c0f; padding: 2px 8px; border-radius: 4px; font-size: 13px; font-weight: bold; margin-right: 10px;">Under Review at UbiComp 2026</span>
+  <span style="background-color: #fffbdd; color: #735c0f; padding: 2px 8px; border-radius: 4px; font-size: 13px; font-weight: bold; margin-right: 10px;">Under Review at InfoCom 2026</span>
 </div>
 
 * **Research Focus**: VR Security, Visual Side-Channel Attacks, Keystroke Inference
@@ -105,7 +104,7 @@ My academic exploration focuses on AI Security, VR Privacy, and Federated Learni
 ### [2] E2Gen: Evidential Energy Generation Framework for Fair Federated Graph Learning
 <div style="margin-bottom: 10px;">
   <span style="background-color: #f1f8ff; color: #0366d6; padding: 2px 8px; border-radius: 4px; font-size: 13px; font-weight: bold; margin-right: 5px;">First Author</span>
-  <span style="background-color: #fffbdd; color: #735c0f; padding: 2px 8px; border-radius: 4px; font-size: 13px; font-weight: bold; margin-right: 10px;">Under Review at NeurIPS 2026</span>
+  <span style="background-color: #fffbdd; color: #735c0f; padding: 2px 8px; border-radius: 4px; font-size: 13px; font-weight: bold; margin-right: 10px;">NeurIPS 2026</span>
 </div>
 
 * **Research Focus**: Federated Graph Learning, Fairness in AI, Energy-Based Models
@@ -125,7 +124,7 @@ My academic exploration focuses on AI Security, VR Privacy, and Federated Learni
 ### [4] CLICKID: Multimodal VR User Authentication via Click-Derived Hand Biometrics
 <div style="margin-bottom: 10px;">
   <span style="background-color: #f1f8ff; color: #0366d6; padding: 2px 8px; border-radius: 4px; font-size: 13px; font-weight: bold; margin-right: 5px;">Co-author</span>
-  <span style="background-color: #fffbdd; color: #735c0f; padding: 2px 8px; border-radius: 4px; font-size: 13px; font-weight: bold; margin-right: 10px;">Under Review at MobiCom 2026</span>
+  <span style="background-color: #fffbdd; color: #735c0f; padding: 2px 8px; border-radius: 4px; font-size: 13px; font-weight: bold; margin-right: 10px;">Under Review at UbiComp 2026</span>
 </div>
 
 * **Research Focus**: VR Authentication, Hand Biometrics, Multimodal Security
@@ -134,7 +133,6 @@ My academic exploration focuses on AI Security, VR Privacy, and Federated Learni
 * **Bronze Medal**, ARC Prize Global Challenge [<a href="../images/kaggle.png" target="_blank">Certificate</a>] [2025]
 * **National First Prize**, Huawei ICT Competition [<a href="../images/Huawei.png" target="_blank">Certificate</a>] [2025]
 * **National Second Prize**, DataCon Big Data Security Analysis Competition [<a href="../images/datacon.jpeg" target="_blank">Certificate</a>] [2025]
-* **National Second Prize**, MathorCup Big Data Competition [<a href="../images/mathor.pdf" target="_blank">Certificate</a>] [2024]
 * **Lei Jun Computer Scholarship**, Wuhan University [<a href="../images/leijun.pdf" target="_blank">Certificate</a>] [2024-2025]
 * **First-Class Scholarship**, Wuhan University [<a href="../images/first.pdf" target="_blank">Certificate</a>] [2024-2025]
 
@@ -147,7 +145,7 @@ My academic exploration focuses on AI Security, VR Privacy, and Federated Learni
 *Undergraduate*, School of Cyber Science and Engineering, Wuhan University
 * Major: Information Security
 * **GPA: 3.89 / 4.0**
-* **Rankings: 4 / 106 (Academic) \| 1 / 106 (Comprehensive)**
+* **Rankings: 4 / 106 (Academic) \| 2 / 106 (Comprehensive)**
 
 
 <br/>
